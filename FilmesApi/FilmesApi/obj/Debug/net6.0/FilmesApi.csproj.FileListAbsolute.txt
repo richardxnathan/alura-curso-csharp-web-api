@@ -30,3 +30,4 @@ C:\Users\richa\Desktop\GIT\alura-curso-csharp-web-api\FilmesApi\FilmesApi\obj\De
 C:\Users\richa\Desktop\GIT\alura-curso-csharp-web-api\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.pdb
 C:\Users\richa\Desktop\GIT\alura-curso-csharp-web-api\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.genruntimeconfig.cache
 C:\Users\richa\Desktop\GIT\alura-curso-csharp-web-api\FilmesApi\FilmesApi\obj\Debug\net6.0\ref\FilmesApi.dll
+C:\Users\richa\Desktop\GIT\alura-curso-csharp-web-api\FilmesApi\FilmesApi\obj\Debug\net6.0\FilmesApi.sourcelink.json
